@@ -1,9 +1,9 @@
 class User < ApplicationRecord
-    devise :database_authenticatable, :registerable,
-    :rememberable, :validatable
+  devise :database_authenticatable, :registerable,
+         :rememberable, :validatable
 
-has_many :activities, foreign_key: 'author_id'
-has_many :categories, foreign_key: 'author_id'
+  has_many :activities, foreign_key: 'author_id'
+  has_many :categories, foreign_key: 'author_id'
 
-validates :name, presence: true
+  validates :name, presence: true
 end
