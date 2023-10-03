@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module CategoriesHelper
   def total_amount(array)
     total = 0
