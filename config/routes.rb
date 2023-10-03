@@ -3,4 +3,9 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+  devise_for :users
+  root 'splashes#index'
+  
+  resources :categories, only: [:index, :new, :show, :create]
+  resources :activities, only: [:new, :show, :create]
 end
