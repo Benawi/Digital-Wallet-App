@@ -30,5 +30,19 @@ class CategoriesController < ApplicationController
     end
   end
 
-  
+  def destroy
+    category = Category.find(params[:id])
+    if category.destroy
+      flash[:notice] = 'category deleted!'
+    else
+      flash[:alert] = "Failed to remove category - #{recipe.errors.full_messages.first}"
+    end
+    redirect_to categories_path
+  end
+
+  private
+
+  def category_params
+    params.require(:category).permit(:name, :icon)
+  end
 end
