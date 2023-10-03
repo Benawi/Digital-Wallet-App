@@ -6,5 +6,17 @@ class ActivitiesController < ApplicationController
     @activity = Activity.new
   end
 
-  
+  def create
+    @activity = current_user.activities.new(activity_params)
+
+    if @activity.save
+      @activity_category = @activity.activity_categories.create(activity_category_params)
+      flash[:notice] = 'activity was successfully created.'
+    else
+      flash[:alert] = "Failed to add activity - #{@activity.errors.full_messages.first}"
+    end
+    redirect_to "/categories/#{@activity_category.category_id}"
+  end
+
+
 end
