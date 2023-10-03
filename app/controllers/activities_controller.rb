@@ -18,5 +18,14 @@ class ActivitiesController < ApplicationController
     redirect_to "/categories/#{@activity_category.category_id}"
   end
 
+  def destroy
+    @activity.destroy
 
+    respond_to do |format|
+      format.html { redirect_to activities_url, notice: 'activity was successfully destroyed.' }
+      format.json { head :no_content }
+    end
+  end
+
+  
 end
