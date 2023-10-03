@@ -27,5 +27,13 @@ class ActivitiesController < ApplicationController
     end
   end
 
-  
+  private
+
+  def activity_category_params
+    params.require(:activity).permit(:category_id)
+  end
+
+  def activity_params
+    params.require(:activity).permit(:name, :amount)
+  end
 end
