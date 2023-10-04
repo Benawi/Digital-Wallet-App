@@ -4,7 +4,7 @@ require 'rails_helper'
 
 RSpec.describe Activity, type: :model do
   before :each do
-    user = User.new(id: 1, name: 'hamza')
+    user = User.new(id: 1, name: 'bena')
     user.email = 'foo1@foo.com'
     user.password = 'admin123'
     user.password_confirmation = 'admin123'
