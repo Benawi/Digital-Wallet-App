@@ -58,8 +58,10 @@ The project is a repository consisting of the following files:
 
 ###  Key Features <a name="key-features"></a>
 
-- [x] A login page.
-- [x]
+- [x] register and log in, so that the data is private to them.
+- [x] introduce new transactions associated with a category.
+- [x] see the money spent on each category.
+
         
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,7 +163,8 @@ To set up RSpec in your app and create the Spec folder run:
 
 ## 🔭 Future Features <a name="future-features"></a>
 - [ ] Optimaze the perfomance of the app.
-- [ ] Make the UI more user friendly
+- [ ] Implement some UX improvements: include transitions and/or animations
+- [ ] Implement the left side menu to improve the navigability of the app.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
