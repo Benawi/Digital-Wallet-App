@@ -7,5 +7,9 @@ RSpec.feature 'Categories page', type: :feature do
     find('#go-categories').click
   end
 
+  scenario 'Should display the title' do
+    expect(page).to have_content('Your Categories')
+  end
+
   
 end
