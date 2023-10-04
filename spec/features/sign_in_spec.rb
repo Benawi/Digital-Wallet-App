@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 describe 'the signin process', type: :feature do
@@ -33,4 +35,3 @@ describe 'the signin process', type: :feature do
     end
   end
 end
-
