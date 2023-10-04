@@ -16,7 +16,7 @@
     "jquery": "~3.4.1",
     "turbolinks": "^5.2.0",
     "webpack": "^5.88.2",
-    "webpack-cli": "3.3.12"
+    "webpack-cli": "^5.1.4"
   },
   "version": "0.1.0",
   "devDependencies": {
@@ -29,5 +29,4 @@
   "scripts": {
     "webpack": "webpack"
   }
-  
 }
