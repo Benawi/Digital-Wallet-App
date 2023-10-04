@@ -6,7 +6,7 @@ databases:
 
 services:
   - type: web
-    name: rails
+    name: digital_wallet1
     runtime: ruby
     buildCommand: "./bin/render-build.sh"
     startCommand: "bundle exec rails s"
