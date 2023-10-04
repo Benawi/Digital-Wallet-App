@@ -15,5 +15,9 @@ RSpec.feature 'Categories page', type: :feature do
     expect(page).to have_content('Loan')
   end
 
-  
+  scenario 'Should display transaction amount' do
+    expect(page).to have_content '$ 20.0'
+  end
+
+
 end
