@@ -27,6 +27,6 @@
     "webpack-dev-server": "3"
   },
   "scripts": {
-    "webpack": "webpack"
-  }
+    "build": "webpack"
+}
 }
