@@ -11,5 +11,9 @@ RSpec.feature 'Categories page', type: :feature do
     expect(page).to have_content('Your Categories')
   end
 
+  scenario 'Should display Category created' do
+    expect(page).to have_content('Loan')
+  end
+
   
 end
