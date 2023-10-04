@@ -19,5 +19,8 @@ RSpec.feature 'Categories page', type: :feature do
     expect(page).to have_content '$ 20.0'
   end
 
-
+  scenario 'should redirect to new category path' do
+    find('#add').click
+    expect(current_path).to eq(new_category_path)
+  end
 end
