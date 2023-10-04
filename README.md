@@ -9,6 +9,8 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [Live Demo](#live-demo)
+    - [Walkthrough](#Walkthrough)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -67,6 +69,16 @@ The project is a repository consisting of the following files:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## 🌐 Live Demo <a name="#live-demo"></a>
+
+- [Digital Wallet App Live Demo](https://digital-wallet-app.onrender.com)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👁 Walkthrough <a name="#Walkthrough"></a>
+
+[Digital Wallet App Walkthrough](https://www.loom.com/share/0a74ec0c9b0843adbba0274931d322b7?sid=059e58c2-fe0d-4d77-90e1-7021959a6c55)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
