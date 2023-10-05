@@ -1,7 +1,7 @@
 databases:
   - name: digital_wallet
     databaseName: digital_wallet_db
-    user: digital_wallet_db_user
+    user: digital_wallet_user
     ipAllowList: []
 
 services:
