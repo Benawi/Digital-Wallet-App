@@ -83,6 +83,7 @@ test:
 #
 production:
   <<: *default
+  url: <%= ENV["DATABASE_URL"] %>
   database: digital_wallet_db
   username: postgres
   password: <%= ENV["HELLORAILS_DATABASE_PASSWORD"]%>
