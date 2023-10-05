@@ -71,7 +71,7 @@ The project is a repository consisting of the following files:
 
 ## 🌐 Live Demo <a name="#live-demo"></a>
 
-- [Digital Wallet App Live Demo](https://digital-wallet-app.onrender.com)
+- [Digital Wallet App Live Demo](https://digital-wallet-app.onrender.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👁 Walkthrough <a name="#Walkthrough"></a>
