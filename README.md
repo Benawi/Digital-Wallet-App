@@ -192,9 +192,7 @@ Give us ⭐️ If you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-- I want to take a moment to express my sincere gratitude for the opportunity to work with you all on this project.
-- Microverse, thank you for providing the structure, guidance and community to help me level up my skills as a developer. The experiential learning model has been invaluable in improving my coding abilities and collaboration skills. I appreciate the code reviews and feedback to help me write cleaner, more professional code.
+- Microverse, thank you for providing the structure, guidance, and community to help me level up my skills as a developer. The experiential learning model has improved my coding abilities and collaboration skills. I appreciate the code reviews and feedback to help me write cleaner, more professional code.
 - Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
