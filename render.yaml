@@ -1,12 +1,10 @@
 databases:
   - name: digital_wallet
-    databaseName: digital_wallet_db
-    user: digital_wallet_user
     ipAllowList: []
 
 services:
   - type: web
-    name: digital_wallet
+    name: rails
     runtime: ruby
     buildCommand: "./bin/render-build.sh"
     startCommand: "bundle exec rails s"
