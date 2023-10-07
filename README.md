@@ -25,7 +25,7 @@
   - [📝 License ](#-license-)
 
 # 📖 Digital Wallet App <a name="about-project"></a>
-Digital Wallet App is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+Digital Wallet App is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spend and on what.
 The project is a repository consisting of the following files:
 
 - Ruby files
@@ -61,7 +61,7 @@ The project is a repository consisting of the following files:
 ###  Key Features <a name="key-features"></a>
 
 - [x] register and log in, so that the data is private to them.
-- [x] introduce new transactions associated with a category.
+- [x] introduces new transactions associated with a category.
 - [x] see the money spent on each category.
 
         
@@ -107,7 +107,7 @@ Install project dependencies with:
 ```
   bundle install
 ```
-### Run localy
+### Run locally
  - Then go to the right folder 
 ```
 $ cd Digital-Wallet-App
@@ -174,9 +174,9 @@ To set up RSpec in your app and create the Spec folder run:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] Optimaze the perfomance of the app.
+- [ ] Optimize the performance of the app.
 - [ ] Implement some UX improvements: include transitions and/or animations
-- [ ] Implement the left side menu to improve the navigability of the app.
+- [ ] Implement the left-side menu to improve the navigability of the app.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
