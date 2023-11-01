@@ -115,7 +115,7 @@ $ cd Digital-Wallet-App
 ```
 $ bundle
 ```
-and run to install npm package
+and run to install the npm package
 ```
 $ npm install
 ```
@@ -124,7 +124,7 @@ make sure the database is up and running.
 ```
 $ rails db:create
 ```
-When you will add migration file then, you can add command like
+When you add the migration file, you can add commands like
 ```
 $ rails db:migrate
 ```
@@ -133,14 +133,14 @@ Run this command line to add some dummy data
 $ rails db:seed
 ```
 
- - Finaly run `rails s` and visit http://localhost:3000/  in your browser!
+ - Finally run `rails s` and visit http://localhost:3000/  in your browser!
 
 ### Run Tests <a name="run-tests"></a>
 
 Go to your gemfile and add the RSpec gem in the development, test group:
 
  ```
- group:development, :test do  
+ group:development: test do  
   gem 'rspec-rails'
  end
  ```
