@@ -187,7 +187,7 @@ Contributions, [issues](https://github.com/Benawi/Digital-Wallet-App/issues), an
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give me ⭐️ If you like this project!
+Give me ⭐️ If you like this project! Thank you
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
