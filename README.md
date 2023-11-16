@@ -30,7 +30,7 @@ The project is a repository consisting of the following files:
 
 - Ruby files
 - Rails files
-- Ruby linters file
+- Ruby linters  file
 
 ## 🛠 Built With <a name="built-with"></a>
 
