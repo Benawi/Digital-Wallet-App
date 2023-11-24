@@ -90,7 +90,7 @@ In order to run this project you need:
 - [Ruby](https://www.ruby-lang.org/en/) installed and running. To get more information, read the [installation instructions](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md).
 - You should be able to use [IRB](https://en.wikipedia.org/wiki/Ruby_(programming_language)#Features).
 - First of all make sure you have both `Ruby` & `Rails` installed in your machine
- (else You can install `Rails` just with this simple command  ```gem install rails```)
+ (else You can install `Rails` just with this simple commands ```gem install rails```)
 ### Setup
 
 Clone this repository to your desired folder:
