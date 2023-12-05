@@ -2,7 +2,7 @@
 
 # <div align="center">🛰Digital Wallet App 🚀</div>
 
-# 📗 Table of Contents
+# 📗 Table of Content
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Digital Wallet App ](#-ruby-group-capstone---catalog-of-my-things-)
