@@ -126,7 +126,7 @@ $ rails db:create
 ```
 When you add the migration file, you can add commands like
 ```
-$ rails db:migrate
+$ rails db: migrate
 ```
 Run this command line to add some dummy data
 ```
