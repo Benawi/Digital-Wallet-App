@@ -61,7 +61,7 @@ The project is a repository consisting of the following files:
 ###  Key Features <a name="key-features"></a>
 
 - [x] register and log in, so that the data is private to them.
-- [x] introduces new transactions associated with acategory.
+- [x] introduces new transactions associated with a category.
 - [x] see the money spent on each category.
 
         
