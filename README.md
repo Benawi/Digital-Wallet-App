@@ -154,7 +154,7 @@ To set up RSpec in your app and create the Spec folder run:
  ```
   $ rails generate rspec:install
  ```
-  To run Request specs locally you need just to run the following command in your terminal :
+  To run Request specs locally you need just to run the following commands in your terminal :
  ```
  $ rspec spec/
  $ rspec spec/ --format documentation 
